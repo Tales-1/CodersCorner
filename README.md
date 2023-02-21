@@ -1,4 +1,4 @@
-# DevDrive
+# Coder's Corner
 
 
 The Code Interview Prep App is a web application designed to help developers prepare for programming language interviews. It provides a curated list of questions in any programming language, allowing developers to test their knowledge and revise weak areas. The app is perfect for aspiring developers, interview candidates, and even experienced developers looking to brush up their skills.
