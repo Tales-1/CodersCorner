@@ -19,11 +19,9 @@ Prerequisites
 
 ## Installation
 
-    🌀 Clone the repository to your local machine using the following command:
+🌀 Clone the repository to your local machine using the following command:
 
-    bash
-
-git clone https://github.com/your-username/DevDrive.git
+     git clone https://github.com/your-username/DevDrive.git
 
 ## ⬇️ Install the necessary dependencies using NPM:
 
@@ -31,23 +29,20 @@ git clone https://github.com/your-username/DevDrive.git
 
 ## Usage
 
-    🚀 Start the development server using the following command:
+🚀 Start the development server using the following command:
 
-    Terminal
+     npm start
 
-    npm start
+🌐 Open your browser and go to http://localhost:3000 to access the app.
 
-    🌐 Open your browser and go to http://localhost:3000 to access the app.
 
 ## Testing
 
-    🧪 To run the unit tests, use the following command:
-
-    bash
+🧪 To run the unit tests, use the following command:
 
     npm test
 
-    🚦 The tests will automatically run and provide feedback.
+🚦 The tests will automatically run and provide feedback.
 
 ## 🤝 Contributing
 
