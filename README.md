@@ -14,10 +14,10 @@ The Code Interview Prep App is a web application designed to help developers pre
 
 This project uses the following technologies:
 
-    ReactJS
-    TailwindCSS
-    Firebase/Firestore
-    Redux
+    🔧 ReactJS
+     💠 TailwindCSS
+     🔥 Firebase/Firestore
+     🔄 Redux
     
 ## 📖 Getting Started
 
