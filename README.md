@@ -21,7 +21,7 @@ Prerequisites
 
 🌀 Clone the repository to your local machine using the following command:
 
-     git clone https://github.com/your-username/DevDrive.git
+     git clone https://github.com/your-username/CodersCorner.git
 
 ## ⬇️ Install the necessary dependencies using NPM:
 
