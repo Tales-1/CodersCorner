@@ -10,6 +10,15 @@ The Code Interview Prep App is a web application designed to help developers pre
      📚 Personalized recommendations for further study
      🎨 User-friendly interface and intuitive navigation
 
+## 🛠️ Tech Stack
+
+This project uses the following technologies:
+
+    ReactJS
+    TailwindCSS
+    Firebase/Firestore
+    Redux
+    
 ## 📖 Getting Started
 
 To get started with the project, follow these simple steps:
@@ -55,6 +64,8 @@ We welcome contributions to the project! Here's how to get started:
      📝 Commit your changes with a descriptive commit message.
      📤 Push your changes to your forked repository.
      🔀 Create a pull request from your branch to the main repository.
+     
+**Please review our CONTRIBUTING.md file for more detailed instructions.**
 
 ## 📜 License
 
