@@ -23,7 +23,7 @@ This project uses the following technologies:
 
 To get started with the project, follow these simple steps:
 
-###Prerequisites
+### Prerequisites
 
     🌐 You will need to have Node.js and NPM installed on your computer.
 
