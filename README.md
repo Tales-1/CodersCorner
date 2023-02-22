@@ -23,17 +23,17 @@ This project uses the following technologies:
 
 To get started with the project, follow these simple steps:
 
-Prerequisites
+###Prerequisites
 
     🌐 You will need to have Node.js and NPM installed on your computer.
 
-## Installation
+### Installation
 
 🌀 Clone the repository to your local machine using the following command:
 
      git clone https://github.com/your-username/CodersCorner.git
 
-## ⬇️ Install the necessary dependencies using NPM:
+### ⬇️ Install the necessary dependencies using NPM:
 
     npm install
 
