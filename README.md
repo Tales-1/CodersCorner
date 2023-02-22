@@ -14,7 +14,7 @@ The Code Interview Prep App is a web application designed to help developers pre
 
 This project uses the following technologies:
 
-    🔧 ReactJS
+     🔧 ReactJS (vite build)
      💠 TailwindCSS
      🔥 Firebase/Firestore
      🔄 Redux Toolkit
@@ -22,6 +22,7 @@ This project uses the following technologies:
 ## 📖 Getting Started
 
 To get started with the project, follow these simple steps:
+
 Prerequisites
 
     🌐 You will need to have Node.js and NPM installed on your computer.
@@ -40,10 +41,9 @@ Prerequisites
 
 🚀 Start the development server using the following command:
 
-     npm start
+     npm run dev
 
-🌐 Open your browser and go to http://localhost:3000 to access the app.
-
+🌐 Open your browser and go to http://127.0.0.1:5173/ to access the app.
 
 ## Testing
 
