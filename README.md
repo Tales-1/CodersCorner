@@ -4,7 +4,7 @@
 The Code Interview Prep App is a web application designed to help developers prepare for programming language interviews. It provides a curated list of questions in any programming language, allowing developers to test their knowledge and revise weak areas. The app is perfect for aspiring developers, interview candidates, and even experienced developers looking to brush up their skills.
 
 ## 🚀 Key Features
-     🔍 Access to a list of curated questions in any programming language
+     🔍 Access to a list of curated interview questions in any programming language
      📝 Test your knowledge with customized quizzes and challenges
      📊 Track your progress and monitor your strengths and weaknesses
      📚 Personalized recommendations for further study
@@ -17,7 +17,7 @@ This project uses the following technologies:
     🔧 ReactJS
      💠 TailwindCSS
      🔥 Firebase/Firestore
-     🔄 Redux
+     🔄 Redux Toolkit
     
 ## 📖 Getting Started
 
